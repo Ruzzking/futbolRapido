@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#388E16</headerColor>
+        <logo>logofootballvector</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+    </brand>
+    <description>Una aplicacion para alquilar canchas de futbol</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>Futbol Rapido</label>
+    <navType>Standard</navType>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Event</tabs>
+    <tabs>Fast_Soccer__c</tabs>
+    <tabs>Soccer_fields__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Futbol_Rapido_UtilityBar</utilityBar>
+</CustomApplication>
